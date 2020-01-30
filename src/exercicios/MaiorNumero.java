@@ -8,6 +8,7 @@ public class MaiorNumero {
     public static void  calculo(){
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+        System.out.print("Escreva 3 numeros para saber qual é o maior");
 
         int x, y, z, k, t;
 
